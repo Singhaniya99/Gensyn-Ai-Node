@@ -366,9 +366,8 @@ save with `cltr+x` , `Y` + `Enter`
 
 Follow official Docs for more info and Errors!
 
-https://github.com/gensyn-ai/rl-swarm/tree/brian-address-cpu-only-crashes?tab=readme-ov-file#troubleshooting
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
+👉 Join TG for more Updates: https://t.me/+kamRWpadSgc0NWY1
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
